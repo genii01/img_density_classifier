@@ -1,0 +1,3 @@
+python train_mobilenet_sample.py
+python train_efficientnetb4_sample.py
+python train_efficientnetb4.py
